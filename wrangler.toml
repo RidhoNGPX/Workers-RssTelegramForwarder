@@ -1,4 +1,4 @@
-name = "rss-telegram-forwarder"
+name = "asu-rss-telegram"
 main = "src/index.js"
 compatibility_date = "2022-06-14"
 node_compat = true
