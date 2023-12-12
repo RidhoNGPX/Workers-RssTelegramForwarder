@@ -1,4 +1,4 @@
-name = "asu-rss-telegram"
+name = "asw-rss-telegram"
 main = "src/index.js"
 compatibility_date = "2022-06-14"
 node_compat = true
